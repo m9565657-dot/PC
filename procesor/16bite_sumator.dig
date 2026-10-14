@@ -28,11 +28,6 @@
       <pos x="-2460" y="-1520"/>
     </visualElement>
     <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-1240"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -45,76 +40,6 @@
         </entry>
       </elementAttributes>
       <pos x="-2620" y="-1920"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-960"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="160"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="440"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="720"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1000"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1280"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1560"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1840"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2680"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -143,82 +68,12 @@
     <visualElement>
       <elementName>Sumator.dig</elementName>
       <elementAttributes/>
-      <pos x="-2460" y="-1240"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-960"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-1240"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-960"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-960"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-960"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
       <pos x="-2460" y="-680"/>
     </visualElement>
     <visualElement>
       <elementName>Sumator.dig</elementName>
       <elementAttributes/>
       <pos x="-2460" y="-400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="-120"/>
     </visualElement>
     <visualElement>
       <elementName>Sumator.dig</elementName>
@@ -238,57 +93,7 @@
     <visualElement>
       <elementName>Sumator.dig</elementName>
       <elementAttributes/>
-      <pos x="-2460" y="160"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="440"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="160"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="440"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="440"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
       <pos x="-2460" y="720"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1000"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="720"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1000"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="720"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1000"/>
     </visualElement>
     <visualElement>
       <elementName>Sumator.dig</elementName>
@@ -308,82 +113,12 @@
     <visualElement>
       <elementName>Sumator.dig</elementName>
       <elementAttributes/>
-      <pos x="-2460" y="1280"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1560"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1280"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1560"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1560"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
       <pos x="-2460" y="1840"/>
     </visualElement>
     <visualElement>
       <elementName>Sumator.dig</elementName>
       <elementAttributes/>
       <pos x="-2460" y="2120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1840"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="1840"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2680"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Sumator.dig</elementName>
-      <elementAttributes/>
-      <pos x="-2460" y="2680"/>
     </visualElement>
     <visualElement>
       <elementName>Sumator.dig</elementName>
